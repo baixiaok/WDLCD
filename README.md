@@ -7,6 +7,8 @@ conda env create -f environment.yml
 cd apex-master
 python setup.py install
 ```
+# Dataset
+https://www.tensorflow.org/datasets/catalog/stanford_dogs
 
 # Train
 
